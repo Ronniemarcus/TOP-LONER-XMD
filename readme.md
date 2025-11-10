@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ff00, 0 0 20px #00cc66;">𝗔𝗡𝗬𝗪𝗔𝗬-𝗫𝗠𝗗</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ff00, 0 0 20px #00cc66;">TOP LONER XMD</h1>
 </p>
 
 <p align="center">
