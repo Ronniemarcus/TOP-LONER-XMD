@@ -24,7 +24,7 @@
 
 ### 🔰 ➊ FOLLOW GITHUB
 
-[![](https://img.shields.io/badge/➕_FOLLOW_ANYWAY-XMD-orange?style=for-the-badge&logo=github)](https://github.com/anywaytech2)
+[![](https://img.shields.io/badge/➕_FOLLOW_TOP_LONER_XMD-orange?style=for-the-badge&logo=github)](https://github.com/Ronniemarcus)
 
 ---
 
