@@ -67,6 +67,6 @@
 
 ### 📢 OFFICIAL CHANNEL
 
-[![](https://img.shields.io/badge/📢_VIEW_CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09)
+[![](https://img.shields.io/badge/📢_VIEW_CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAufVK1CYoN12dEY321)
 
 ---
