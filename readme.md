@@ -11,7 +11,7 @@
   <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/anywaytech2/ANYWAY-XMD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD/forks"><img title="Forks" src="https://img.shields.io/github/forks/anywaytech2/ANYWAY-XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD?tab=readme-ov-file"><img title="Size" src="https://img.shields.io/github/repo-size/anywaytech2/ANYWAY-XMD?style=for-the-badge&color=33FF99&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/anywaytech2/ANYWAY-XMD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
