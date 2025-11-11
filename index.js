@@ -142,9 +142,9 @@ let up = `┏━━━━━━━━━━━━━━━━━━━┓
 ┃ ▸ *Mode:* Public
 ┃ ▸ *Owner:* LONERS 𝙓𝙈𝘿
 ┗━━━━━━━━━━━━━━━━━━━
-*channel*: https://github.com/anywaytech2/ANYWAY-XMD
-⭐ *GitHub:* https://github.com/anywaytech2/ANYWAY-XMD`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://github.com/anywaytech2//BMB-XMD-DATA/raw/refs/heads/main/image/heroku.jpg` }, caption: up })
+*channel*: https://github.com/Ronniemarcus
+⭐ *GitHub:* https://github.com/Ronniemarcus/TOP-LONER-XMD`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://github.com/Ronniemarcus//BMB-XMD-DATA/raw/refs/heads/main/image/heroku.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -782,7 +782,7 @@ if (isBanned) return; // Ignore banned users completely
   }
   
   app.get("/", (req, res) => {
-  res.send("ANYWAY-XMD STARTED ✅");
+  res.send("TOP-LONER-XMD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
