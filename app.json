@@ -1,8 +1,8 @@
 {
-  "name": "ANYWAY-XMD",
+  "name": "TOP-LONER-XMD",
   "description": "Javascript WhatsApp bot made by ANYWAY XMD",
   "logo": "https://files.catbox.moe/9j6ddi.png",
-  "keywords": ["ANYWAY-XMD"],
+  "keywords": ["TOP-LONER-XMD"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ANYWAY-XMD"
+      "value": "TOP-LONER-XMD"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -69,17 +69,17 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR ANYWAY TECH"
+      "value": "LONERS DIGITAL"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255678892560"
+      "value": "966598513987"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ANYWAY-XMD"
+      "value": "TOP-LONER-XMD"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -104,12 +104,12 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/9j6ddi.png"
+      "value": "https://files.catbox.moe/5fs6yw.jpg"
     },
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ANYWAY-XMD*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ LONERS-XMD*"
     },
     "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
