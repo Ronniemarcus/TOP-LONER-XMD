@@ -30,7 +30,7 @@
 
 ### 🔃 ➋ FORK REPOSITORY
 
-[![](https://img.shields.io/badge/🔁_FORK_THIS_REPO-FF4500?style=for-the-badge&logo=github)](https://github.com/anywaytech2/ANYWAY-XMD/fork)
+[![](https://img.shields.io/badge/🔁_FORK_THIS_REPO-FF4500?style=for-the-badge&logo=github)](https://github.com/Ronniemarcus/TOP-LONER-XMD/forks)
 
 ---
 
