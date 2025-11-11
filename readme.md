@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/anywaytech2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anywaytech2?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/anywaytech2/ANYWAY-XMD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD/forks"><img title="Forks" src="https://img.shields.io/github/forks/anywaytech2/ANYWAY-XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD/fork"><img title="Forks" src="https://img.shields.io/github/forks/anywaytech2/ANYWAY-XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD?tab=readme-ov-file"><img title="Size" src="https://img.shields.io/github/repo-size/anywaytech2/ANYWAY-XMD?style=for-the-badge&color=33FF99&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/Ronniemarcus/TOP-LONER-XMD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
@@ -30,7 +30,7 @@
 
 ### 🔃 ➋ FORK REPOSITORY
 
-[![](https://img.shields.io/badge/🔁_FORK_THIS_REPO-FF4500?style=for-the-badge&logo=github)](https://github.com/Ronniemarcus/TOP-LONER-XMD/forks)
+[![](https://img.shields.io/badge/🔁_FORK_THIS_REPO-FF4500?style=for-the-badge&logo=github)](https://github.com/Ronniemarcus/TOP-LONER-XMD/fork)
 
 ---
 
