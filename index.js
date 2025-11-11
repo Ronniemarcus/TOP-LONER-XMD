@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['255767862457']
+  const ownerNumber = ['966598513987']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -113,9 +113,9 @@ const port = process.env.PORT || 9090;
   console.log('Bot connected to whatsapp ✅')
   
   let greetings = [
-  "🤖 ANYWAY-XMD BOT",
-  "🚀 ANYWAY-XMD ONLINE",
-  "👾 POWERED BY ANYWAYTECH",
+  "🤖 TOP-LONER-XMD BOT",
+  "🚀 TOP-LONER-XMD ONLINE",
+  "👾 POWERED BY LONERS-DIGITAL",
   "💡 INTELLIGENT BOT SYSTEM"
 ];
 let subtitles = [
@@ -125,8 +125,8 @@ let subtitles = [
   "The Future of WhatsApp Bots"
 ];
 let outro = [
-  "Thanks for choosing ANYWAY-XMD!",
-  "Powered by *ANYWAY 𝘟𝘔𝘋💻*",
+  "Thanks for choosing TOP-LONER-XMD!",
+  "Powered by *LONERS 𝘟𝘔𝘋💻*",
   "Built for your convenience ⚡",
   "Leveling up your automation 🛠"
 ];
@@ -140,7 +140,7 @@ let up = `┏━━━━━━━━━━━━━━━━━━━┓
 ┏━〔 🧩 *Bot Details* 〕━━
 ┃ ▸ *Prefix:* ${prefix}
 ┃ ▸ *Mode:* Public
-┃ ▸ *Owner:* 𝘼𝙉𝙔𝙒𝘼𝙔 𝙓𝙈𝘿
+┃ ▸ *Owner:* LONERS 𝙓𝙈𝘿
 ┗━━━━━━━━━━━━━━━━━━━
 *channel*: https://github.com/anywaytech2/ANYWAY-XMD
 ⭐ *GitHub:* https://github.com/anywaytech2/ANYWAY-XMD`;
